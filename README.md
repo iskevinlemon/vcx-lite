@@ -1,5 +1,5 @@
 # ⚡️ vcx-lite
-0.78 kb JavaScript router for static site. Enabling your website to load super fast.
+0.706 kb JavaScript router for static site. Enabling your website to load super fast.
 
 > \[!NOTE]\
 > This router only works when serving static HTML files. DOM manipulation and JavaScript interactivity isn't supported.
